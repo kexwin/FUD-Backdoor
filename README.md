@@ -1,5 +1,5 @@
 # FUD-Backdoor
-This is a very simple design to implement the meterpreter-like sessions exclusively for a *windows* target machine. This is written purely in Python and you wouldn't need to install any modules as the modules which are used in this come preinstalled with python.
+This is a very simple design to implement the meterpreter-like sessions exclusively for a <i>**windows**</i> target machine. This is written purely in Python and it wouldn't need installation of any modules as the modules which are used in this come preinstalled with python.
 ## Usage
 enter the ip address of the host machine in both the files on which you want to get a shell on.
 ### for backdoor
